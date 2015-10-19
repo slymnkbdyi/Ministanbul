@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İstanbulRehberim", "İstanbulRehberim\İstanbulRehberim.csproj", "{78A8288C-25E2-4CC6-8ED9-9904A2C3B559}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IstanbulRehberim", "IstanbulRehberim\IstanbulRehberim.vdproj", "{FC391731-FEC7-4B48-815B-8326E2039C91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "İstanbul_Rehberi", "İstanbul_Rehberi\İstanbul_Rehberi.vdproj", "{055BB32D-E588-4450-B3A2-DA2B2292AEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A8288C-25E2-4CC6-8ED9-9904A2C3B559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A8288C-25E2-4CC6-8ED9-9904A2C3B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A8288C-25E2-4CC6-8ED9-9904A2C3B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A8288C-25E2-4CC6-8ED9-9904A2C3B559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC391731-FEC7-4B48-815B-8326E2039C91}.Debug|Any CPU.ActiveCfg = Debug
+		{FC391731-FEC7-4B48-815B-8326E2039C91}.Release|Any CPU.ActiveCfg = Release
+		{055BB32D-E588-4450-B3A2-DA2B2292AEB9}.Debug|Any CPU.ActiveCfg = Debug
+		{055BB32D-E588-4450-B3A2-DA2B2292AEB9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
